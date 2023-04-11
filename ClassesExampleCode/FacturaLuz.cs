@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ClassesExampleCode
 {
-    public class FacturaLuz
+    public class FacturaLuz : Impuesto
     {
         public string payCode { get; set; } 
         public double amount { get; set; }

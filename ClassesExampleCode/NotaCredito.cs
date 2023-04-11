@@ -6,18 +6,20 @@ using System.Threading.Tasks;
 
 namespace ClassesExampleCode
 {
-    public class Factura : DocumentoContable
+    public class NotaCredito : DocumentoContable
     {
-        public Factura() 
+
+        public NotaCredito() 
         {
-            _siglas = "FC - A";
+            _siglas = "NC - A";
         }
         public string siglas { get; }
 
-        //Return amoun + IVA
+        //Return amount + IVA in negative
         public override double Total()
         {
-            return amount * 1.21;
+            return amount * 1.21 * -1;
         }
     }
 }
+

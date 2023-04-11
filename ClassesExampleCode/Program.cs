@@ -4,7 +4,15 @@
     {
         static void Main(string[] args)
         {
-            Factura unaFactura = new Factura()
+            //UTF-8 configuration
+            Console.OutputEncoding = System.Text.Encoding.UTF8;
+
+            DocumentoContable unaFactura = new Factura()
+            {
+                amount = 1500
+            };
+
+            DocumentoContable unaNotaCredito = new NotaCredito()
             {
                 amount = 1500
             };
@@ -29,6 +37,8 @@
 
             unaImpresora.Imprimir(unMunicipal);
             unaImpresora.Imprimir(unaFactura);
+            unaImpresora.Imprimir(unaNotaCredito);
+
             unaImpresora.Imprimir(unRecibo);
             unaImpresora.Imprimir(unaFacturaLuz);
             unaImpresora.Imprimir(unAlbaran);

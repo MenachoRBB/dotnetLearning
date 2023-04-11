@@ -11,6 +11,7 @@ namespace ClassesExampleCode
         public int packageQuantity { get; set; }
         public DateTime date { get; set; }
         public int number { get; set; }
+        public double amount { get; set; }  
 
     }
 }

@@ -8,6 +8,11 @@ namespace ClassesExampleCode
 {
     public class Impresora
     {
+
+        public void Imprimir(DocumentoContable unDocumento)
+        {
+            Console.WriteLine($"Imprimiendo un documento {unDocumento.siglas} de {unDocumento.Total()}€ del día {unDocumento.date.ToShortDateString()}");
+        }
         public void Imprimir(Factura unaFactura)
         {
             Console.WriteLine($"Imprimiendo una factura de {unaFactura.amount}€");

@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace ClassesExampleCode
 {
-    public class Municipal : Impuesto
+    public abstract class Impuesto
     {
-        public double amount { get; set; }
-        public string partida { get; set; }
+        public double amount { get; set; }  
+
     }
 }
