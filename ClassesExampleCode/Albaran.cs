@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ClassesExampleCode
 {
-    public class Albaran
+    public class Albaran : IImprimible
     {
         public int packageQuantity { get; set; }
         public DateTime date { get; set; }

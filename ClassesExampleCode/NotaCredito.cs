@@ -21,10 +21,6 @@ namespace ClassesExampleCode
             return amount * 1.21 * -1;
         }
 
-        public override void Imprimir()
-        {
-            Console.WriteLine($"Imprimiendo desde nota de crédito - {siglas} de {Total()}€ del dia {date.ToString("dd/MM/yyyy")}");
-        }
     }
 }
 

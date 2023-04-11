@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ClassesExampleCode
 {
-    public class ReciboSueldo
+    public class ReciboSueldo : IImprimible
     {
         public int file { get; set; }
         public double total { get; set; }  

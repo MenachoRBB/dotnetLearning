@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ClassesExampleCode
 {
-    public abstract class DocumentoContable
+    public abstract class DocumentoContable : IImprimible
     {
         protected string _siglas;
         public DateTime date { get; set; }  
@@ -14,7 +14,12 @@ namespace ClassesExampleCode
         public double amount { get; set; }  
         public string siglas { get { return _siglas; } }
 
+        public void Imprimir()
+        {
+            Console.WriteLine($"Imprimiendo desde - {siglas} de {Total()}€ del dia {date.ToString("dd/MM/yyyy")}");
+        }
+
         public abstract double Total();
-        public abstract void Imprimir();
+       
     }
 }

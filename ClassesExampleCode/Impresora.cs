@@ -9,22 +9,9 @@ namespace ClassesExampleCode
     public class Impresora
     {
 
-        public void Imprimir(DocumentoContable unDocumento)
+        public void Imprimir(IImprimible unElementoImprimible)
         {
-            unDocumento.Imprimir(); 
-        }
-        public void Imprimir(Albaran unAlbaran)
-        {
-            unAlbaran.Imprimir();
-
-        }
-        public void Imprimir(ReciboSueldo unReciboSueldo)
-        {
-            unReciboSueldo.Imprimir();  
-        }
-        public void Imprimir(Impuesto unImpuesto)
-        {
-            unImpuesto.Imprimir();
+            unElementoImprimible.Imprimir(); 
         }
     }
 }

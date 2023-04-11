@@ -14,11 +14,6 @@ namespace ClassesExampleCode
         }
         public string siglas { get; }
 
-        public override void Imprimir()
-        {
-            Console.WriteLine($"Imprimiendo desde Factura - {siglas} de {Total()}€ del dia {date.ToString("dd/MM/yyyy")}");
-        }
-
         //Return amoun + IVA
         public override double Total()
         {

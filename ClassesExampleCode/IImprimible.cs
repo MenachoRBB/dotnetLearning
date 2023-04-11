@@ -6,10 +6,8 @@ using System.Threading.Tasks;
 
 namespace ClassesExampleCode
 {
-    public abstract class Impuesto : IImprimible
+    public interface IImprimible
     {
-        public double amount { get; set; }
-        public abstract void Imprimir();
-
+        void Imprimir();
     }
 }
