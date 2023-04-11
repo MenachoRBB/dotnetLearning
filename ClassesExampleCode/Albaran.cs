@@ -11,7 +11,10 @@ namespace ClassesExampleCode
         public int packageQuantity { get; set; }
         public DateTime date { get; set; }
         public int number { get; set; }
-        public double amount { get; set; }  
-
+        public double amount { get; set; }
+        public void Imprimir()
+        {
+            Console.WriteLine($"Imprimiendo un albaran con {packageQuantity} bultos");
+        }
     }
 }

@@ -10,5 +10,10 @@ namespace ClassesExampleCode
     {
         public string payCode { get; set; } 
         public double amount { get; set; }
+
+        public override void Imprimir()
+        {
+            Console.WriteLine($"Imprimiendo una factura de luz de código de pago electrónico {payCode}");
+        }
     }
 }

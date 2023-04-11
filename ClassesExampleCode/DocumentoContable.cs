@@ -15,5 +15,6 @@ namespace ClassesExampleCode
         public string siglas { get { return _siglas; } }
 
         public abstract double Total();
+        public abstract void Imprimir();
     }
 }

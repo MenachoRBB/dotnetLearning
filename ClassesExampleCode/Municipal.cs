@@ -10,5 +10,11 @@ namespace ClassesExampleCode
     {
         public double amount { get; set; }
         public string partida { get; set; }
+
+        public override void Imprimir()
+        {
+            Console.WriteLine($"Imprimiendo el municipal de la partida {partida}");
+
+        }
     }
 }

@@ -8,7 +8,8 @@ namespace ClassesExampleCode
 {
     public abstract class Impuesto
     {
-        public double amount { get; set; }  
+        public double amount { get; set; }
+        public abstract void Imprimir();
 
     }
 }
