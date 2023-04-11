@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\dotnetTests\ClassesExampleCode\bin\Debug\net7.0\ClassesExampleCode.exe
+C:\Users\User\Desktop\dotnetTests\ClassesExampleCode\bin\Debug\net7.0\ClassesExampleCode.deps.json
+C:\Users\User\Desktop\dotnetTests\ClassesExampleCode\bin\Debug\net7.0\ClassesExampleCode.runtimeconfig.json
+C:\Users\User\Desktop\dotnetTests\ClassesExampleCode\bin\Debug\net7.0\ClassesExampleCode.dll
+C:\Users\User\Desktop\dotnetTests\ClassesExampleCode\bin\Debug\net7.0\ClassesExampleCode.pdb
+C:\Users\User\Desktop\dotnetTests\ClassesExampleCode\obj\Debug\net7.0\ClassesExampleCode.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\dotnetTests\ClassesExampleCode\obj\Debug\net7.0\ClassesExampleCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\dotnetTests\ClassesExampleCode\obj\Debug\net7.0\ClassesExampleCode.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\dotnetTests\ClassesExampleCode\obj\Debug\net7.0\ClassesExampleCode.AssemblyInfo.cs
+C:\Users\User\Desktop\dotnetTests\ClassesExampleCode\obj\Debug\net7.0\ClassesExampleCode.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\dotnetTests\ClassesExampleCode\obj\Debug\net7.0\ClassesExampleCode.dll
+C:\Users\User\Desktop\dotnetTests\ClassesExampleCode\obj\Debug\net7.0\refint\ClassesExampleCode.dll
+C:\Users\User\Desktop\dotnetTests\ClassesExampleCode\obj\Debug\net7.0\ClassesExampleCode.pdb
+C:\Users\User\Desktop\dotnetTests\ClassesExampleCode\obj\Debug\net7.0\ClassesExampleCode.genruntimeconfig.cache
+C:\Users\User\Desktop\dotnetTests\ClassesExampleCode\obj\Debug\net7.0\ref\ClassesExampleCode.dll
