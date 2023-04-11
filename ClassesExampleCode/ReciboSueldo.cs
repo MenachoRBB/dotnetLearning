@@ -14,7 +14,6 @@ namespace ClassesExampleCode
         public void Imprimir()
         {
             Console.WriteLine($"Imprimiendo un recibo de sueldo del legajo {file}");
-
         }
     }
 }
