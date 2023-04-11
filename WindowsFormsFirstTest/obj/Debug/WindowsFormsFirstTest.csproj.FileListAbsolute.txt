@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\dotnetTests\WindowsFormsFirstTest\obj\Debug\WindowsFormsFirstTest.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\dotnetTests\WindowsFormsFirstTest\obj\Debug\WindowsFormsFirstTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\dotnetTests\WindowsFormsFirstTest\obj\Debug\WindowsFormsFirstTest.Form1.resources
+C:\Users\User\Desktop\dotnetTests\WindowsFormsFirstTest\obj\Debug\WindowsFormsFirstTest.Properties.Resources.resources
+C:\Users\User\Desktop\dotnetTests\WindowsFormsFirstTest\obj\Debug\WindowsFormsFirstTest.csproj.GenerateResource.cache
+C:\Users\User\Desktop\dotnetTests\WindowsFormsFirstTest\obj\Debug\WindowsFormsFirstTest.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\dotnetTests\WindowsFormsFirstTest\bin\Debug\WindowsFormsFirstTest.exe.config
+C:\Users\User\Desktop\dotnetTests\WindowsFormsFirstTest\bin\Debug\WindowsFormsFirstTest.exe
+C:\Users\User\Desktop\dotnetTests\WindowsFormsFirstTest\bin\Debug\WindowsFormsFirstTest.pdb
+C:\Users\User\Desktop\dotnetTests\WindowsFormsFirstTest\obj\Debug\WindowsFormsFirstTest.exe
+C:\Users\User\Desktop\dotnetTests\WindowsFormsFirstTest\obj\Debug\WindowsFormsFirstTest.pdb
